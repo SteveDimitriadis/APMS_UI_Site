@@ -1,0 +1,27 @@
+﻿body {
+    background-color: #608fe2;
+    color: #E2B360;
+    font-family: 'Fjalla One', sans-serif;
+}
+.navbar {
+    background-color: #608fe2;
+    color: #E2B360;
+}
+.navbar-brand {
+    color: #E2B360;
+}
+.navbar navbar-expand-lg {
+    color: #E2B360;
+}
+li a{
+    color: #E2B360;
+    font-size:25px;
+
+}
+.container-fluid {
+    background-color: #4c6797;
+    border-radius: 15px 15px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    display:inline-block;
+}
