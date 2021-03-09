@@ -4,7 +4,7 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
     <div class="row">
-        <div class="col-2 m-0">
+        <div class=" container-fluid col-2 m-0 ml-4">
             <h2 class="pl-2">Pets:</h2>
             <h4 class="pl-2">Doc</h4>
             <img style="max-width: 85%;" class="m-0 pl-2" src="images/African-Grey.jpg" />
@@ -16,8 +16,8 @@
             <img style="max-width: 100%;" class="m-0 pl-2" src="images/cat.jpg" />
         </div>
 
-    <div class="col-10 p-0 m-0">
-        <div class="pl-2 m-0">
+    <div class="col-8 p-0 m-0">
+        <div class="container-fluid pl-2 m-0 ml-2">
             <h2 class="pl-2">Medications:</h2>
             <div>
                 <asp:DropDownList runat="server" CssClass="btn btn-light btn-md">
