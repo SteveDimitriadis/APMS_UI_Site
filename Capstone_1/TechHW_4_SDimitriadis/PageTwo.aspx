@@ -4,7 +4,7 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
     <div class="container-fluid">
-        <h2>Pets</h2>
+        <h2>Pets:</h2>
         <div class="row">
             <div class="col-6">
                 <button type="button" class="btn btn-outline-light" data-html="true" data-toggle="popover" title="Doc" data-content=" <img style='max-width: 85%;' class='m-0 pl-2' src='images/African-Grey.jpg' /> <br /> Doc takes Pet CBD <br /> Contact: 123-456-7891">
