@@ -70,8 +70,12 @@
     <Content Include="css\stylingsteve.css" />
     <Content Include="Default.aspx" />
     <Content Include="images\African-Grey.jpg" />
+    <Content Include="images\Apoquel.jpg" />
     <Content Include="images\cat.jpg" />
+    <Content Include="images\cbd.jpg" />
     <Content Include="images\churro.jpg" />
+    <Content Include="images\fluoxetine.jpg" />
+    <Content Include="images\heartguard.jpg" />
     <Content Include="images\remi.jpg" />
     <Content Include="images\vet-logo.png" />
     <Content Include="PageThree.aspx" />
